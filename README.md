@@ -1,4 +1,4 @@
-[img](https://github.com/Kuldeep12e/Metabank/blob/main/Screenshot%202024-03-24%20140957.png)
+![img](https://github.com/Kuldeep12e/Metabank/blob/main/Screenshot%202024-03-24%20140957.png)
 # MetaBank
 
 MetaBank is an educational project that combines Solidity smart contracts with React frontend development to simulate a decentralized banking platform. This project serves as a learning tool for developers and enthusiasts interested in exploring decentralized finance (DeFi) concepts.
