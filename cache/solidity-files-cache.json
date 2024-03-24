@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\ashish\\neweth\\contracts\\bankfrontend.sol": {
+      "lastModificationDate": 1711264329778,
+      "contentHash": "25b364d70c15e31bd7a259041de66c0e",
+      "sourceName": "contracts/bankfrontend.sol",
+      "solcConfig": {
+        "version": "0.8.7",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.7"
+      ],
+      "artifacts": [
+        "UniqueFrontendIntegrationContract"
+      ]
+    }
+  }
+}
